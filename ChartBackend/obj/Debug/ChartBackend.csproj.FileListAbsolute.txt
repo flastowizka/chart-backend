@@ -1,0 +1,6 @@
+C:\Users\Felipe Moraes\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ChartBackend\bin\Debug\ChartBackend.exe.config
+C:\Users\Felipe Moraes\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ChartBackend\bin\Debug\ChartBackend.exe
+C:\Users\Felipe Moraes\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ChartBackend\bin\Debug\ChartBackend.pdb
+C:\Users\Felipe Moraes\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ChartBackend\obj\Debug\ChartBackend.csprojResolveAssemblyReference.cache
+C:\Users\Felipe Moraes\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ChartBackend\obj\Debug\ChartBackend.exe
+C:\Users\Felipe Moraes\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ChartBackend\obj\Debug\ChartBackend.pdb
